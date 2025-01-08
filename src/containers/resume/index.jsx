@@ -1,7 +1,7 @@
 import React from "react";
 import { BsInfoCircleFill } from "react-icons/bs";
 import PageHeader from "../../components/pageheader";
-import { motion } from "framer-motion";
+
 import {
   VerticalTimeline,
   VerticalTimelineElement,
